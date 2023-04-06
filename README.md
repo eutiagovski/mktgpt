@@ -1,6 +1,6 @@
 # mktGpt
 
-Experimente: https://www.mktgpt.com.br
+Experimente: https://app.mktgpt.com.br
 
 O mktGpt é um aplicativo criado para facilitar a engenharia da escrita ao utilizar o chatgpt para criação de conteúdos. Ele permite que usuários criem conteúdos personalizados de forma rápida e eficiente.
 
